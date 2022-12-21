@@ -234,4 +234,12 @@
   #winner {
     font-size: 4vw;
   }
+   #score {
+    font-size: 21px;
+    /* color: red; */
+    position: absolute;
+    bottom: 6px;
+    left: 6px;
+    font-weight: bold;
+  }
 }
